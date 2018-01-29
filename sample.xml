@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<list>
+  <song>
+    <title>Song 1</title>
+    <author>Author 1</author>
+    <genre>Genre 1</genre>
+  </song>
+  <song>
+    <title>Song 2</title>
+    <author>Author 2</author>
+    <genre>Genre 2</genre>
+  </song>
+  <song>
+    <title>Song 3</title>
+    <author>Author 3</author>
+    <genre>Genre 3</genre>
+  </song>
+</list>
